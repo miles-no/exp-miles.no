@@ -1,0 +1,4 @@
+[submodule "miles-wp-theme"]
+	path = miles-wp-theme
+	url = https://github.com/miles-no/miles-wp-theme
+	branch = main
