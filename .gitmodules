@@ -10,3 +10,7 @@
 	path = miles_web_components
 	url = https://github.com/miles-no/miles_web_components
 	branch = main
+[submodule "miles_limes"]
+	path = miles_limes
+	url = https://github.com/miles-no/miles_limes
+	branch = main
