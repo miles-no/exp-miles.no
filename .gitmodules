@@ -6,3 +6,7 @@
 	path = miles-wp-web-components-plugin
 	url = https://github.com/miles-no/miles-wp-web-components-plugin
 	branch = main
+[submodule "miles_web_components"]
+	path = miles_web_components
+	url = https://github.com/miles-no/miles_web_components
+	branch = main
